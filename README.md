@@ -1,2 +1,3 @@
 # Demo ukol v Gitu
-## Lukáš Čech 
+## Lukáš Čech
+
